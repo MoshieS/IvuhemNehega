@@ -1,0 +1,101 @@
+
+h1{
+  font-size: 50px;
+  font-family: 'Merriweather-black', serif;
+font-weight: 900;
+font-size: 70px;
+}
+
+h2{
+  font-size: 30px;
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+font-size: 35px;
+}
+header{
+  padding-bottom: 50px;
+}
+
+/* navbar */
+
+.navbar-light{
+  background-color: #263c5c;
+
+}
+
+/* heading */
+
+.headerwords{
+  padding: 120px 25px 0px 120px;
+  color: #263c5c ;
+
+text-align: left;
+
+}
+
+.heading2{
+    padding: 65px 20px 50px 70px;
+}
+.sefer{
+  transform: rotate(15deg);
+  width: 350px;
+
+}
+
+/* explainer */
+
+#explainer{
+  padding: 100px 150px;
+  text-align: center;
+  background-color: #263c5c;
+  color: #fff;
+}
+#explainer h2{
+  line-height: 1.5;
+  padding-bottom:100px;
+}
+
+.point{
+  text-align: center;
+
+
+}
+.ic{
+  padding: 20px 0px;
+}
+
+
+/* testimonials */
+
+.testi{
+  padding: 30px 230px;
+  background-color: white;
+  text-align: center;
+}
+.bt{
+
+  background-color:  #263c5c;
+}
+.inner{
+  padding: 100px 0;
+}
+
+#testimonials p{
+  line-height: 1.5;
+  color:  #263c5c;
+  font-size: 30px;
+  padding: 10px 30px;
+  font-weight: bold;
+}
+#testimonials img{
+  width: 16%;
+  margin-right: 10px;
+}
+
+#footer{
+
+  background-color:  #263c5c;
+  text-align: center;
+  color: white;
+  padding: 50px 0 15px 0;
+}
